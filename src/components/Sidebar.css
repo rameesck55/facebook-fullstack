@@ -1,0 +1,24 @@
+.sectionside{
+    /* width: 271px; */
+   
+    padding-left: 20px;
+    
+    background-color: antiquewhite;
+    margin-left: 10px;
+    border-radius: 8px;
+    /* margin-top: 10px; */
+    position: relative;
+    
+   
+}
+span{
+    text-align: center;
+}
+.showmorebutton{
+    color: black;
+    background-color: rgb(185, 177, 165);
+    border-radius: 10px;
+    margin-left: 25px;
+    border: 0ch;
+    margin-bottom:10px ;
+}

@@ -1,0 +1,36 @@
+.mainpro{
+    height: 400px;
+    width: 100%;
+    background-color: #ecf1f1;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 8px;}
+
+.imagebackgrounddiv{
+    height: 300px;
+    width: 100%;
+}
+.backgroundimageinpro{
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+}
+.avatarpicdiv{
+    margin-left: 363px;
+    margin-top: -102px;
+    
+}
+#proavatar{
+    color: aqua;
+    font-size: 110px;
+    
+}
+.avatarpicx{
+    border-color: aliceblue;
+
+}
+.nameinpro{
+    font-size: 33px;
+    margin-left: 21px;
+}

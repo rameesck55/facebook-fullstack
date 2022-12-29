@@ -1,0 +1,48 @@
+.endbarmaindiv{
+    /* margin-left: 913px; */
+    /* margin-top: -1362px; */
+    background-color: antiquewhite;
+    border-radius: 8px;
+    position: absolute;
+    /* margin-left: 60px; */
+}
+.sidebarheadnotifications{
+    padding-left: 10px;
+}
+#giftbox{
+    color: red;
+}
+.birthday{
+    font-weight: 600;
+}
+.imageinendbar{
+    border-radius: 10px;
+    border: 0ch;
+    /* width: 411px;
+    height: 411px; */
+    margin-bottom: 10px;
+    width: 98%;
+    height: 99%;
+}
+.friends{
+    display: inline-flex;
+}
+.spaceforonlinefriends{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.nameoffriend{
+    margin-left: 10px;
+    margin-top: 15px;
+
+}
+.Online_Friends{
+    font-size: 20px;
+    font-weight: 500;
+}
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }

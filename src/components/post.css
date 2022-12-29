@@ -1,0 +1,71 @@
+.postforprofile{
+    /* margin-left: 10px; */
+    margin-top: 10px;
+    background-color: antiquewhite;
+    /* width: 614px; */
+    border-radius: 8px;
+}
+.postforidentity{
+   display: inline-flex;
+   padding-left: 14px;
+   padding-top: 20px;
+   
+}
+.nameofperson{
+    font-weight: 800;
+    margin-left: 16px;
+    margin-top: 10px;
+}
+.minofperson{
+    margin-left: 35px;
+    opacity: 0.6;
+    margin-top: 8px;
+
+}
+.moreicon{
+    margin-left: 259px;
+    font-weight: 900;
+}
+.mainpost{
+    margin-left: 10px;
+}
+.imageforpost{
+    /* height: 500px; */
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-size: cover;
+    
+}
+.postimagesinimg{
+    height: 100%;
+    width: 100%;
+
+}
+/* #iconsinbottom{
+    align-items: center;
+} */
+#bottomiconspace,#bottomcountspace{
+    height: 20px;
+    text-align: center;
+}
+.countsinbottom{
+    font-size: small;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#iconsinbottomlike:hover{
+    color: green;
+    cursor: pointer;
+}
+#iconsinbottomdislike:hover{
+    color: red;
+    cursor: pointer;
+}
+#iconsinbottomcomment:hover{
+    color: rgb(44, 9, 126);
+    cursor: pointer;
+}
+#iconsinques{
+    margin-left: 125px;
+}

@@ -1,0 +1,35 @@
+body{
+    height: 620px;
+}
+.Newaccount-reg{
+    color: antiquewhite;
+    background-color: green;
+    border-radius: 8px;
+    border: none;
+    height: 45px;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 129px;
+    margin-top: 12px;
+    cursor: pointer;
+}
+.bodydiv-reg{
+    height: 432px;
+    width: 375px;
+    /* margin-left: 850px; */
+    margin-top: 113px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    /* box-shadow: 5px 5px 10px rgb(19 22 20); */
+    border: 1px rgb(165, 164, 164) solid;
+    margin-left: 453px;
+
+}
+.facebook-reg{
+    color: rgb(51, 121, 250);
+    font-weight: bold;
+    font-size: 51px;
+    text-align: center;
+}

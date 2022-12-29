@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(237 239 239);
+    height: 100vh;
+
+}
+.main-body{
+    height: 750px;
+    padding-left: 0px;
+    margin-top: 131px;
+    width: 500px;
+    margin-left: 730px;
+   
+
+}
+
+.bodydiv{
+    height: 323px;
+    width: 375px;
+    /* margin-left: 850px; */
+    /* margin-top: 200px; */
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    /* box-shadow: 5px 5px 10px rgb(19, 22, 20); */
+    border: 1px rgb(165, 164, 164) solid;
+    margin-left: 10px;
+
+   
+
+}
+input{
+    width: 345px;
+    height: 43px;
+    font-size: 19px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid rgb(165, 164, 164);
+}
+.Login{
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(51, 121, 250);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    height: 45px;
+    width: 353px;
+    font-size: 21px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+Link{
+    margin-left: 100px;
+    color: blue;
+    cursor: pointer;
+}
+.Newaccount{
+    color: antiquewhite;
+    background-color: green;
+    border-radius: 8px;
+    border: none;
+    height: 45px;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 79px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.loginlinkbutton{
+    color: aliceblue;
+}
+.loginlinkbutton:hover{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+
+
